@@ -1,0 +1,28 @@
+/*Estilo a nivel de etiqueta*/
+body{ 
+    background-color: aqua;
+    margin-top: 0%;
+}
+/*estilo a nivel de id*/
+#menu a{
+    font-size: 18px;
+    font-weight:bold;
+    color: #3f3f3f ;
+}
+#menu button{
+    font-size: 18px;
+    font-weight:bold;
+}
+/* Estilo a nivel de clase*/
+.carousel-inner {
+    max-height: 29rem;
+/*centrar fila de recursos*/
+}
+.Recursos-fila{
+    width: 100%;
+    text-align: center;
+}
+
+#equipo{
+    width: 90%;
+}
